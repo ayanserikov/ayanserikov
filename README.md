@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ayan 👋</h1>
+<h3 align="center">Freelancer & Developer from Uzbekistan 🇺🇿</h3>
 
-<!--
-**ayanserikov537-cyber/ayanserikov537-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayanserikov537-cyber&label=Profile%20views&color=blue&style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About me
+- 🌱 Learning: Kotlin & Android
+- 💻 Editor: IntelliJ IDEA
+- 📍 Location: Uzbekistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 📊 GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanserikov537-cyber&show_icons=true&theme=tokyonight" />
+</p>
