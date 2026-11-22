@@ -12,7 +12,7 @@
 - 🌱 Learning: **Kotlin & Android**
 - 💻 Editor: **IntelliJ IDEA**
 - 📍 Location: **Uzbekistan 🇺🇿**
-- 💼 Status: **Freelancer**
+
 
 ### 🛠 Tech stack
 <p>
